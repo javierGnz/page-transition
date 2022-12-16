@@ -1,0 +1,13 @@
+.layout {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.main {
+  padding: 1rem 1.5rem;
+  width: 100%;
+  max-width: 600px;
+}
